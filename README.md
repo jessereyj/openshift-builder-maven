@@ -1,4 +1,4 @@
-[![](https://img.shields.io/travis/com/gepardec/s2i-builder-maven/master?style=flat-square)](https://travis-ci.com/gepardec/s2i-builder-maven)
+[![](https://img.shields.io/travis/com/gepardec/openshift-builder-maven/master?style=flat-square)](https://travis-ci.com/gepardec/openshift-builder-maven)
 ![Docker Pulls](https://img.shields.io/docker/pulls/gepardec/s2i-builder-maven?color=brightgreen&style=flat-square)
 ![gplv3](https://img.shields.io/badge/license-GPL%20v3.0-brightgreen.svg?style=flat-square)
 ![Maintenance](https://img.shields.io/maintenance/yes/2020?style=flat-square)

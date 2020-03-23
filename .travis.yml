@@ -30,7 +30,7 @@ env:
   global:
     - secure: TSzB08OmlOviBB0ZWXVZbuedEEBzd9yQ10mY4K6WXw+5LiCxUGcgUwWywgR5lHF89+GjpKG+iRXHIplXl4tqSYSRXx1JP4h6BFj9vgMct0xIDOnVLhj5hhGQVM7zNf5ni3JNfW08ZkCEcBkMFVwszndYrT5mXYzAMnDUXzlIc6U65BrkPIt1uL1nd2rr3PFRjlyKENNnZ3vefjPO7JmqV+nBNWL5Fm14lumx7Fkb+eGq0FmJYABraAc+B5swO1DWvnW6tJdMCnbL5iJrwQSDoWn+eYXwukxV1XYdfkVYR2vGEBXi27mAK79ib/c15gP5vNc+KS1LQtJAJubbBVgfDr/USXl2LieE9V6J2PzqV1G7RrwWr2DKLrKT9HbBn8BB+KVnskGnKGTljEpM1xvbCYee7vT4eMRuvzCsTTfdHJ/aATp5XRx1TXdH7Xt2CO2w9p18KImT+X24GQd7ZOutBA2td7n8k9RPBvHHPB45xGOtiCZsBC3BfqMn7aqnH7UQlqLFrVWRfRuihvhP8LNrB2+6459jMcWIoUGXFnSOrFOVfdlHmorV6KP6msP3xMUrDyixNK4eLcC4DPNzYTOw4Cwj8Viy/jmumE+IKa+/FF+G9K2JdonJNlypihii/uoFCnYtKkiQq/vtNBA0ZtNcIqWXymDCGUQpcV+Kwp9hg7Q=
 before_install:
-  - openssl aes-256-cbc -K $encrypted_4b36a787d569_key -iv $encrypted_4b36a787d569_iv
+  - openssl aes-256-cbc -K $encrypted_3345e9210b01_key -iv $encrypted_3345e9210b01_iv
     -in .travis/token.enc -out .travis/token -d
   - export PATH=$(pwd)/.travis:$PATH
 install:
