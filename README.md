@@ -1,9 +1,9 @@
-[![Build Status](https://travis-ci.com/gepardec/openshift-builder-maven.svg?branch=master)](https://travis-ci.com/gepardec/openshift-builder-maven)
-![Maintenance](https://img.shields.io/maintenance/yes/2019)
-![Docker Pulls](https://img.shields.io/docker/pulls/gepardec/s2i-builder-maven)
-![GitHub](https://img.shields.io/github/license/gepardec/openshift-builder-maven)
+[![](https://img.shields.io/travis/com/gepardec/s2i-builder-maven/master?style=flat-square)](https://travis-ci.com/gepardec/s2i-builder-maven)
+![Docker Pulls](https://img.shields.io/docker/pulls/gepardec/s2i-builder-maven?color=brightgreen&style=flat-square)
+![gplv3](https://img.shields.io/badge/license-GPL%20v3.0-brightgreen.svg?style=flat-square)
+![Maintenance](https://img.shields.io/maintenance/yes/2020?style=flat-square)
 <p align="right">
-<img alt="gepardec" width=100px src="./.images/gepardec.png">
+<img alt="gepardec" width=100px src="https://www.gepardec.com/files/gepardec_logo_light_background@2000w.png">
 </p>
 <br>
 <br>
