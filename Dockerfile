@@ -1,4 +1,4 @@
-FROM maven:3-jdk-11
+FROM maven:3-jdk-14
 
 ENV BUILDER_CONTEXT_DIR="" \
     BUILDER_MVN_MIRROR="" \
